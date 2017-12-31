@@ -1,4 +1,4 @@
-const Resume = require('./models/resume.js');
+const Resume = require('../models/resume.js');
 
 const resume = new Resume([
   {
